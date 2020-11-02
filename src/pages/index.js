@@ -15,4 +15,5 @@ export async function getStaticProps({ params }) {
     return { props };
 }
 
+
 export default Page;
